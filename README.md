@@ -1,1 +1,1 @@
-# mongo-news-scrape
+# mongo-news-scraper
